@@ -11,30 +11,30 @@
 
 #### Blurred Image (Filter Size: 3, Sigma: 1, 3, 5) 
 <p align="center">
-    <img style="max-width: 33% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf3s1.png" width="360" height="220">
-    <img style="max-width: 33% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf3s3.png" width="360" height="220">
-    <img style="max-width: 33% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf3s5.png" width="360" height="220">
+    <img style="max-width: 38% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf3s1.png" width="360" height="220">
+    <img style="max-width: 38% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf3s3.png" width="360" height="220">
+    <img style="max-width: 38% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf3s5.png" width="360" height="220">
 </p>
 
 #### Blurred Image (Filter Size: 5, Sigma: 1, 3, 5) 
 <p align="center">
-    <img style="max-width: 33% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf5s1.png" width="360" height="220">
-    <img style="max-width: 33% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf5s3.png" width="360" height="220">
-    <img style="max-width: 33% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf5s5.png" width="360" height="220">
+    <img style="max-width: 38% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf5s1.png" width="360" height="220">
+    <img style="max-width: 38% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf5s3.png" width="360" height="220">
+    <img style="max-width: 38% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf5s5.png" width="360" height="220">
 </p>
 
 #### Blurred Image (Filter Size: 7, Sigma: 1, 3, 5) 
 <p align="center">
-    <img style="max-width: 33% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf7s1.png" width="360" height="220">
-    <img style="max-width: 33% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf7s3.png" width="360" height="220">
-    <img style="max-width: 33% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf7s5.png" width="360" height="220">
+    <img style="max-width: 38% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf7s1.png" width="360" height="220">
+    <img style="max-width: 38% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf7s3.png" width="360" height="220">
+    <img style="max-width: 38% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf7s5.png" width="360" height="220">
 </p>
 
 #### Blurred Image (Filter Size: 9, Sigma: 1, 3, 5) 
 <p align="center">
-    <img style="max-width: 33% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf9s1.png" width="360" height="220">
-    <img style="max-width: 33% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf9s3.png" width="360" height="220">
-    <img style="max-width: 33% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf9s5.png" width="360" height="220">
+    <img style="max-width: 38% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf9s1.png" width="360" height="220">
+    <img style="max-width: 38% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf9s3.png" width="360" height="220">
+    <img style="max-width: 38% !important; height: auto" alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/gaussian-blur/master/images/blurredpikaf9s5.png" width="360" height="220">
 </p>
 
 
